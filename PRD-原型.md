@@ -11,6 +11,7 @@
 
 ![推荐文章与最近阅读页](/img/推荐文章与最近阅读页.png)   
 
+------
 
 - **锁屏页面**    
 
@@ -34,5 +35,6 @@
 
 
 ## 3.原型文档 
-**原型文档请参见**：[最小可行性产品的可交互原型文档](https://koujii.github.io/wechat_read_article/#g=1&p=%E6%9C%97%E8%AF%BB%E6%96%87%E7%AB%A0-%E7%95%8C%E9%9D%A2%E4%B8%8E%E4%BA%A4%E4%BA%92)
+**原型文档请参见**：[最小可行性产品的可交互原型文档](https://koujii.github.io/wechat_read_article/#g=1&p=%E6%9C%97%E8%AF%BB%E6%96%87%E7%AB%A0-%E7%95%8C%E9%9D%A2%E4%B8%8E%E4%BA%A4%E4%BA%92)     
+
 下载请点击[此处](/MVP可交互原型文档.rp)
