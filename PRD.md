@@ -1,9 +1,9 @@
 # 产品需求文档
 
-| Target release  | 2018年11月25日  |
+| Target release  | 2018年12月29日  |
 | ------------- | ------------- |
 | **Epic**  | 微信推文朗读小插件  |
-| **Document status**  | 进行中  |
+| **Document status**  | 已完成  |
 | **Document owner**  | 张嘉容  |
 
 
