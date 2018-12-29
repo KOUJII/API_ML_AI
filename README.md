@@ -76,9 +76,9 @@ from bs4 import BeautifulSoup
 from urllib import request
 from aip import AipSpeech
 import IPython
-APP_ID = '14979803'
-API_KEY = '3yZGOA0MF7vIaVSkU5tSuqH5'
-SECRET_KEY = '7bYMj9pV41TbW2curcNKFG6dOwszOQV4'
+APP_ID = '这是ID'
+API_KEY = '这是KEY'
+SECRET_KEY = '这也是KEYKEY'
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
 #抓取网页内容
